@@ -8,3 +8,5 @@ This is a simple calculator built using **HTML**, **CSS**, and **JavaScript**.
 - Responsive design and animated blinking cursor
 
 ## File Structure:
+![Calculator Screenshot]
+(type%20calculator.png)
